@@ -1,3 +1,9 @@
 Avdhesh Kumar Sharma
+<<<<<<< Updated upstream
 Adding a new stash to the new1 branch
+=======
+
+Adding another temporary volume to new1 branch
+
+>>>>>>> Stashed changes
 
