@@ -1,3 +1,8 @@
 I am avdhesh Kumar sharma
 
+<<<<<<< Updated upstream
 adding new stash
+=======
+poping example
+
+>>>>>>> Stashed changes
